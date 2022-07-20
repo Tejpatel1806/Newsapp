@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 678,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Seths.blog"
+            },
+            "author": "Seth Godin",
+            "title": "Scale vs. Speed: Why organizations slow down",
+            "description": "If you compare a Starbucks of ten years ago to a current one, they’re virtually the same. Compare this to the originals in Seattle, and the difference is startling. The same goes for the design of a typical McDonald’s. Apple launched the Mac with about a doze…",
+            "url": "https://seths.blog/2022/06/scale-vs-speed-why-organizations-slow-down/",
+            "urlToImage": "https://149521506.v2.pressablecdn.com/wp-content/uploads/2018/06/seth_godin_ogimages_v02_1806135-1.jpg",
+            "publishedAt": "2022-06-08T08:11:00Z",
+            "content": "If you compare a Starbucks of ten years ago to a current one, they’re virtually the same. Compare this to the originals in Seattle, and the difference is startling.\r\nThe same goes for the design of a… [+3117 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Rupert Jones",
+            "title": "Two in five buy now, pay later shoppers borrow funds to clear the debt",
+            "description": "Citizens Advice says consumers ‘piling borrowing on top of borrowing’ by paying with credit cardsMore than two in five recent buy now, pay later (BNPL) shoppers relied on credit cards or other forms of borrowing to pay off what they owed, the charity Citizens…",
+            "url": "https://amp.theguardian.com/business/2022/jun/08/two-in-five-buy-now-pay-later-shoppers-borrow-funds-to-clear-the-debt",
+            "urlToImage": "https://i.guim.co.uk/img/media/a988e6df3ea08b79e67d0128f6aae92ae3f345b7/531_617_2722_1633/master/2722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca932082a1d3b78459b696fd0ef1bdeb",
+            "publishedAt": "2022-06-08T05:01:13Z",
+            "content": "More than two in five recent buy now, pay later (BNPL) shoppers relied on credit cards or other forms of borrowing to pay off what they owed, the charity Citizens Advice has said.\r\nIt said the figure… [+2101 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "watchOS 9 Expands VoIP Calling on Apple Watch Beyond FaceTime Audio",
+            "description": "Apple this week announced that watchOS 9 will allow users to make VoIP calls directly from an Apple Watch via supported third-party apps.\n\n\n\n\n\nDuring its WWDC 2022 keynote, Apple said that users will be able to start, end, or mute VoIP calls from the Apple Wa…",
+            "url": "https://www.macrumors.com/2022/06/07/apple-watch-voip-calling-watchos-9/",
+            "urlToImage": "https://images.macrumors.com/t/02MwVl93jP99K10hatpNRfNgnHY=/1622x/article-new/2022/06/apple-watch-voip-calling-watchos-9.jpg",
+            "publishedAt": "2022-06-08T02:29:40Z",
+            "content": "Apple this week announced that watchOS 9 will allow users to make VoIP calls directly from an Apple Watch via supported third-party apps.\r\nDuring its WWDC 2022 keynote, Apple said that users will be … [+841 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Patrick Holland",
+            "title": "The iOS 16 Features iPhone Users Are Going to Love Most - CNET",
+            "description": "Here's everything we know about iOS 16 after Apple unveiled it at WWDC.",
+            "url": "https://www.cnet.com/tech/mobile/ios-16-features-iphone-users-going-love-most/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/48a3799e8c23fa073b16a36ba0d97ae5de49405e/2022/06/06/15b8cb98-55dd-4090-8b6a-67f66931345c/screen-shot-2022-06-06-at-10-05-32-am.png?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-06-08T06:12:24Z",
+            "content": "This story is part of WWDC 2022, CNET's complete coverage from and about Apple's annual developers conference. \r\nAs always, Apple's big keynote was chock-full of exciting software announcements on th… [+9265 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Alessandro Fillari",
+            "title": "'Everything Everywhere All at Once': When Is the Flick Available on Streaming? - CNET",
+            "description": "One of the best multiverse movies ever has finally got a streaming release date.",
+            "url": "https://www.cnet.com/culture/entertainment/everything-everywhere-all-at-once-when-is-the-flick-available-on-streaming/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/ffe54eb2e323d2195a59b23b48211e224efb46ac/2022/05/25/7e1cf583-396d-4802-8696-641560a90dd2/eeaao-6.png?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-06-08T00:53:47Z",
+            "content": "If 2022 hasn't been weird and existential enough, there's more than one film about the multiverse out this year. It's a conceit that revels in the idea of our connection to an infinite number of para… [+7772 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "MacOS Will Soon Block Unknown USB-C Accessories By Default",
+            "description": "An anonymous reader quotes a report from TechCrunch: A new security feature in Apple's upcoming macOS 13 Ventura will automatically block new USB-C devices from communicating with the operating system until the accessory can be approved by the user. Apple dro…",
+            "url": "https://it.slashdot.org/story/22/06/07/2022202/macos-will-soon-block-unknown-usb-c-accessories-by-default",
+            "urlToImage": "https://a.fsdn.com/sd/topics/security_64.png",
+            "publishedAt": "2022-06-08T00:02:00Z",
+            "content": "A new security feature in Apple's upcoming macOS 13 Ventura will automatically block new USB-C devices from communicating with the operating system until the accessory can be approved by the user. Ap… [+741 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "wsoon@insider.com (Weilun Soon)",
+            "title": "Beijing should seize Apple's iPhone chipmaker in Taiwan if US sanctions China, top Chinese economist says",
+            "description": "Alarmed by how sanctions have crippled Russia, a Chinese economist said China must seize Taiwan's TSMC to protect its economy from potential future sanctions.",
+            "url": "https://www.businessinsider.com/china-must-seize-apple-chipmaker-taiwan-tsmc-if-sanctioned-economist-2022-6",
+            "urlToImage": "https://i.insider.com/62a03c943232420018784014?width=1200&format=jpeg",
+            "publishedAt": "2022-06-08T07:00:27Z",
+            "content": "A top Chinese economist said that if the US imposes crippling sanctions on China, Beijing must retaliate by seizing Apple's iPhone chip supplier in Taiwan.\r\n\"Should the US and the West impose devasta… [+3200 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "author": "@GIGAZINE",
+            "title": "iOS 16では「Nintendo Switch」のJoy-ConやプロコンをiPhoneで利用可能に",
+            "description": "Appleは2022年6月7日に開催した開発者向けイベント「WWDC22」でiPhone向けOSの時期メジャーバージョン「iOS 16」を発表しました。iOS 16は記事作成時点では開発版が公開されており、開発版を試した人物から「Nintendo Switchのコントローラーに対応している」という報告があがっています。続きを読む...",
+            "url": "https://gigazine.net/news/20220608-ios-joy-con/",
+            "urlToImage": "https://i.gzn.jp/img/2022/06/08/ios-joy-con/00.jpg",
+            "publishedAt": "2022-06-08T03:00:00Z",
+            "content": "Apple202267WWDC22iPhoneOSiOS 16iOS 16Nintendo Switch\r\n!!! iOS 16 natively supports Nintendo Switch Pro Controllers!!\r\nCan confirm they work perfectly with Delta ???? pic.twitter.com/p8u1sdjvTt\r\n— Ril… [+943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Bradley Chambers",
+            "title": "Apple @ Work: The news out of WWDC is seamless integration for enterprises",
+            "description": "Sponsored by iMazing Configurator: The scalable local device management and provisioning solution for admins from the iOS and iPadOS experts! Learn more and preview it for free today!\nSponsored by Jamf: Get complete management and security solutions for your …",
+            "url": "https://9to5mac.com/2022/06/08/wwdc-enterprise-news/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/08/Apple-at-Work.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-06-08T09:00:00Z",
+            "content": "Sponsored by iMazing Configurator: The scalable local device management and provisioning solution for admins from the iOS and iPadOS experts! Learn more and preview it for free today!\r\nSponsored by J… [+469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Report: TSMC to start mass production of new 3nm ‘M2 Pro’ chip later this year",
+            "description": "Apple this week unveiled the new M2 chip, which is the first upgrade to the Apple Silicon chips created specifically for the Mac and iPad. While the new M2-powered MacBooks are yet to hit the stores, analyst Jeff Pu of Haitong Intl Tech Research has now repor…",
+            "url": "https://9to5mac.com/2022/06/07/mass-production-3nm-m2-pro-chip-later-2022/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/apple-m2-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-06-08T02:50:42Z",
+            "content": "Apple this week unveiled the new M2 chip, which is the first upgrade to the Apple Silicon chips created specifically for the Mac and iPad. While the new M2-powered MacBooks are yet to hit the stores,… [+2243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Here’s how iOS 16 and macOS 13 enable passwordless sign-in with ‘passkeys’",
+            "description": "FIDO Alliance, an association that has been working on new authentication methods to replace traditional passwords, announced last month that Apple, Google, and Microsoft have committed to expanding support for FIDO Standard on their platforms. At WWDC 2022, …",
+            "url": "https://9to5mac.com/2022/06/07/passkeys-passwordless-sign-in-ios-16/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/iOS-16-passkeys.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-06-08T01:26:29Z",
+            "content": "FIDO Alliance, an association that has been working on new authentication methods to replace traditional passwords, announced last month that Apple, Google, and Microsoft have committed to expanding … [+2664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Seth Kurkowski",
+            "title": "9to5Mac Daily: June 7, 2022 – iOS 16 Tapback changes, iPhone 14 always-on screen",
+            "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by MacStadium: The …",
+            "url": "https://9to5mac.com/2022/06/07/9to5mac-daily-june-7-2022-ios-16-tapback-changes-iphone-14-always-on-screen/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-06-08T00:08:38Z",
+            "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "そうこ",
+            "title": "WWDCでは完全スルーされたけど…AppleのARヘッドセットは2023年1月発表？",
+            "description": "著名リーカーによると、AppleのARヘッドセットは上海のロックダウンで開発が遅れ、発表は来年1月になりそうだとのこと。",
+            "url": "https://www.gizmodo.jp/2022/06/apples-ar-headset-to-be-announced-in-jan-2023.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/08/Render-w960.jpeg",
+            "publishedAt": "2022-06-08T06:00:00Z",
+            "content": "WWDCAR/MRrealityOSOne More ThingWWDC\r\nAppleMing-Chi KuoAppleAR/MRAppleAR/MR2023120232WWDCAR/MR\r\n(1/2)I believe Apple's AR/MR headset shipping date will postpone to 2Q23 (vs. 1Q23 of market consensus)… [+267 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "尾田和実",
+            "title": "GIZ Asks : iPhoneをWebカメラ化してる時、こっちから見えない画面はどうなってんの？ #WWDC22",
+            "description": "「Continuity Camera」機能。コードもスイッチもいらないAppleらしい解決策なわけですが、じゃあ、こちらから死角となったiPhoneの画面はどうなってるの？",
+            "url": "https://www.gizmodo.jp/2022/06/continuitycamera_gizask.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/08/220608_gizask-w960.jpg",
+            "publishedAt": "2022-06-08T03:30:00Z",
+            "content": "Continuity CameraiPhoneMacBookWeb iPhoneMacBookBelkinMagSafeiPhonePCAppleiPhone WWDC2022...\r\nContinuity CameraiPhoneiPhone\r\nApple\r\nDesigned in ..."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Roger Montti",
+            "title": "Get To Know Google’s Before: and After: Search Operators via @sejournal, @martinibuster",
+            "description": "Introduced in 2019, the before: and after: search operators help you find webpages that were published during a specific time period.\nThe post Get To Know Google’s Before: and After: Search Operators appeared first on Search Engine Journal.",
+            "url": "https://www.searchenginejournal.com/google-commands-before-after/451803/",
+            "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2022/05/shutterstock_1421068616-bef-628e7ba3509a1-sej.jpg",
+            "publishedAt": "2022-06-08T06:45:21Z",
+            "content": "Google offers a lesser-known advanced search command that could make your Google searching a whole lot easier.\r\nWhile it’s possible to use Google’s Tools menu to do the same thing, it takes six click… [+6117 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+            "title": "New EU Legislation Forces Apple to Create iPhones With USB-C Ports by 2024",
+            "description": "While Apple didn't announce a new iPhone with the long-rumored USB-C port at this year's WWDC, it now appears that the Lightning port will soon be phased out if the tech giant wishes to continue selling its flagship smartphone over in Europe. According to new…",
+            "url": "https://hypebeast.com/2022/6/european-union-apple-iphone-usb-c-smartphone-sales-mandate-2024",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F06%2Feuropean-union-apple-iphone-usb-c-smartphone-sales-mandate-2024-tw.jpg?w=960&cbr=1&q=90&fit=max",
+            "publishedAt": "2022-06-08T00:35:19Z",
+            "content": "While Apple didn’t announce a new iPhone with the long-rumored USB-C port at this year’s WWDC, it now appears that the Lightning port will soon be phased out if the tech giant wishes to continue sell… [+1968 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+            "title": "A Look Back at WWDC 2022",
+            "description": "WWDC 2022 marked Apple's first in-person keynote since before the pandemic. As one of the many media outlets invited to the big event, HYPEBEAST was able to witness first-hand the latest M2 MacBook Air, along with a host of new upgrades to iOS, WatchOS, MacOS…",
+            "url": "https://hypebeast.com/2022/6/hypebeast-apple-wwdc-2022-visit",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F06%2Fhypebeast-apple-wwdc-2022-visit-tw-edit-2.jpg?w=960&cbr=1&q=90&fit=max",
+            "publishedAt": "2022-06-08T01:12:49Z",
+            "content": "WWDC 2022 marked Apple’s first in-person keynote since before the pandemic. As one of the many media outlets invited to the big event, HYPEBEAST was able to witness first-hand the latest M2 MacBook A… [+2474 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+            "title": "Brett Goldstein Reveals ‘Ted Lasso’ Is Being Written to End With Season Three",
+            "description": "Apple TV+'s Ted Lasso could truly be coming to an end with its third season.Brett Goldstein, who plays the fan favorite Roy Kent and also serves as a writer on the show, revealed to Sunday Times that they are sticking with their original plan to close it out …",
+            "url": "https://hypebeast.com/2022/6/apple-tv-plus-jason-sudeikis-ted-lasso-being-written-to-end-season-three",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F06%2Fapple-tv-plus-jason-sudeikis-ted-lasso-being-written-to-end-season-three-tw.jpg?w=960&cbr=1&q=90&fit=max",
+            "publishedAt": "2022-06-08T03:39:40Z",
+            "content": "Apple TV+‘s Ted Lasso could truly be coming to an end with its third season.\r\nBrett Goldstein, who plays the fan favorite Roy Kent and also serves as a writer on the show, revealed to Sunday Times th… [+969 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Setra",
+            "title": "Apple va-t-il retenter sa chance avec un nouvel HomePod ?",
+            "description": "Apple serait en train de développer une nouvelle version du HomePod. Précédemment, l’analyste Ming Chi Kuo avait prédit que cette nouvelle enceinte pourrait sortir au dernier trimestre 2022 ou au premier trimestre 2023.",
+            "url": "https://www.presse-citron.net/apple-va-t-il-retenter-sa-chance-avec-un-nouvel-homepod/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2021/12/setup-homepod-mini.jpg",
+            "publishedAt": "2022-06-08T08:30:51Z",
+            "content": "Apple cartonne dans presque tous les domaines, que ce soit les smartphones, les ordinateurs, les écouteurs sans fil ou les montres connectées. Cependant, la firme de Cupertino a du mal à simposer sur… [+3754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Setra",
+            "title": "Vous avez une autre bonne raison d’utiliser Google Chrome sur Mac",
+            "description": "Alors que Google Chrome était déjà plus performant que Safari sur les Mac, la firme a encore amélioré les performances de ce navigateur afin de rendre celui-ci 20 % plus rapide.",
+            "url": "https://www.presse-citron.net/?p=502061",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2022/03/test-mac-studio.jpg",
+            "publishedAt": "2022-06-08T09:00:59Z",
+            "content": "Alors quApple tend à enfermer ses clients dans son écosystème, Google na aucun problème avec le fait que ses apps et services soient utilisés sur les plateformes rivales, comme celles de la firme de … [+3091 chars]"
+        }
+    ]
+}
